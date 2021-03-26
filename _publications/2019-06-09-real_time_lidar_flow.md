@@ -6,7 +6,7 @@ excerpt: 'Real-time 3D LiDAR Flow using Range Images'
 date: 2019-06-09
 venue: ' 2019 IEEE Intelligent Vehicles Symposium (IV)'
 paperurl: 'https://ieeexplore.ieee.org/document/8814094'
-citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
+# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 Autonomous vehicles require an accurate understanding of the underlying motion of their surroundings.
