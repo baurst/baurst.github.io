@@ -16,7 +16,7 @@ My research is at the intersection of machine learning and 3D Vision, especially
 
 ## Publications
 
-* [PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation]('https://ras.papercept.net/proceedings/IROS20/1208.pdf')
+* [PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation](https://ras.papercept.net/proceedings/IROS20/1208.pdf)
   * Fabian Duffhaus; Stefan Baur
   * 2020 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)
 
