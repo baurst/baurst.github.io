@@ -15,6 +15,10 @@ My research is at the intersection of machine learning and 3D Vision, especially
 
 
 ## Publications
+* [SLIM: Self-Supervised LiDAR Scene Flow and Motion Segmentation](http://www.cvlibs.net/publications/Baur2021ICCV.pdf)
+  * Stefan Baur<sup>\*</sup>, David Emmerichs<sup>\*</sup>, Frank Moosmann, Peter Pinggera, Bjorn Ommer and Andreas Geiger (<sup>\*</sup>: equal conribution)
+  * 2021 International Conference on Computer Vision (ICCV)
+  * [Blog Post](https://baurst.github.io/slim)
 
 * [PillarFlowNet: A Real-time Deep Multitask Network for LiDAR-based 3D Object Detection and Scene Flow Estimation](https://ras.papercept.net/proceedings/IROS20/1208.pdf)
   * Fabian Duffhaus; Stefan Baur
