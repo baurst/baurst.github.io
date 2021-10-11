@@ -52,8 +52,7 @@ Points predicted to be stationary then use the flow from the aggregated rigid eg
 
 ## Qualitative Results
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/kWH8_ZLFw28" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<iframe width="560" height="315" src="https://www.youtube.com/embed/z34H43BOEVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 Motion Segmentation: Left Groundtruth, right prediction. Higher dynamicness is brighter.
