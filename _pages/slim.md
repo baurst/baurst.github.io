@@ -50,10 +50,12 @@ Points predicted to be stationary then use the flow from the aggregated rigid eg
 * Artificial Labels: The classification logits are trained using a self-supervised loss based on the k-NN errors.
 
 
-## Qualitative Results
+## Presentation Video
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/z34H43BOEVw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+
+## Qualitative Results
 
 Motion Segmentation: Left Groundtruth, right prediction. Higher dynamicness is brighter.
 
