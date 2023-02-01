@@ -12,6 +12,8 @@ Stefan Baur<sup>\*</sup>, David Emmerichs<sup>\*</sup>, Frank Moosmann, Peter Pi
 
 [Supplementary Material](http://www.cvlibs.net/publications/Baur2021ICCV_supplementary.pdf)
 
+[Code](https://github.com/mercedes-benz/selfsupervised_flow)
+
 <img src='/images/bk_render_kitti_stereo_sf_dataset_20210217_bugfix_0011_overlay_left_side_.jpg'>
 
 TL;DR: Based on the discrepancy between rigid sensor ego-motion estimate and a raw flow prediction, we generate a self-supervised motion segmentation signal and use it to train our network to perform self-supervised motion segmentation.
