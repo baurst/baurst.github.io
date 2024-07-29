@@ -8,17 +8,22 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! 👋 I'm Stefan, a PhD student working on autonomous driving at Mercedes-Benz (Daimler).
+Hi there! 👋 I'm Stefan, a PhD student working on autonomous driving at Mercedes-Benz.
 I'm also part of the [Autonomous Vision Group at the Max Planck Institute for Intelligent Systems](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/team/), supervised by Andreas Geiger.
 
-My research is at the intersection of machine learning and 3D Vision, especially motion prediction using 3D LiDAR sensors.
+My research is at the intersection of machine learning and 3D Vision, especially motion-based self-supervised learning based for 3D LiDAR sensors.
 
 
 ## Publications
-* [SLIM: Self-Supervised LiDAR Scene Flow and Motion Segmentation](http://www.cvlibs.net/publications/Baur2021ICCV.pdf) (Oral)
+* [LISO: Lidar-only Self-Supervised 3D Object Detection](https://baurst.github.io/liso)
+  * Stefan Baur, Frank Moosmann and Andreas Geiger
+  * 2024 European Conference on Computer Vision (ECCV)
+  * [Paper](https://arxiv.org/abs/2403.07071)
+
+* [SLIM: Self-Supervised LiDAR Scene Flow and Motion Segmentation](https://baurst.github.io/slim)
   * Stefan Baur<sup>\*</sup>, David Emmerichs<sup>\*</sup>, Frank Moosmann, Peter Pinggera, Bjorn Ommer and Andreas Geiger (<sup>\*</sup>: equal conribution)
-  * 2021 International Conference on Computer Vision (ICCV)
-  * [Blog Post](https://baurst.github.io/slim)
+  * 2021 International Conference on Computer Vision (ICCV), Oral
+  * [Paper](http://www.cvlibs.net/publications/Baur2021ICCV.pdf) 
 
 * [Quantifying point cloud realism through adversarially learned latent representations](https://arxiv.org/pdf/2109.11775.pdf)
   * Larissa T. Triess, David Peter, Stefan Baur and J. Marius Zöllner
