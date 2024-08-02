@@ -48,7 +48,7 @@ My research is at the intersection of machine learning and 3D Vision, especially
   * meshes can be loaded from .obj files
 * [Sudoku Solver](https://github.com/baurst/sudoku_solver):
   * uses constraint propagation and backtracking
-  * compiled to WebAssembly with React Frontend
+  * Rust compiled to WebAssembly with React Frontend
   * [try it out](https://baurst.github.io/sudoku_solver/) (runs completely in the browser)
 * [Snake](https://github.com/baurst/rs_snake): A terminal based snake game
   * no window manager or GUI required

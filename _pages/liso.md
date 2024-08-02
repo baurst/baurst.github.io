@@ -6,32 +6,30 @@ redirect_from:
   - /liso.html
 ---
 
-Stefan Baur, Frank Moosmann and Andreas Geiger 
+<center> Stefan Baur, Frank Moosmann and Andreas Geiger </center>
 
-[Paper](https://www.cvlibs.net/publications/Baur2024ECCV.pdf)
+<center> <a href="https://www.cvlibs.net/publications/Baur2024ECCV.pdf">[Paper]</a> <a href="https://github.com/baurst/liso">[Code]</a> </center>
 
-[Code](https://github.com/baurst/liso)
+<p></p>
+<p></p>
 
 **TL;DR:** Based on self-supervised lidar scene flow, we generate pseudo ground truth for lidar object detectors.
 Using the scene flow to track and refine the pseudo ground truth, we then train state-of-the-art lidar object detectors, improving the pseudo ground truth further and further with each round of tracking and retraining.
-
-## Abstract
-3D object detection is one of the most important components in any Self-Driving stack, but current state-of-the-art (SOTA) lidar object detectors require costly & slow manual annotation of 3D bounding boxes to perform well.
-We introduce a novel self-supervised method to train SOTA lidar object detection networks which works on unlabeled sequences of lidar point clouds only, which we call trajectory-regularized self-training.
-It utilizes a SOTA self-supervised lidar scene flow network under the hood to generate, track, and iteratively refine pseudo ground truth.
-
-
-We demonstrate that our method works with two different networks on four different datasets, using **the same hyperparameters**.
 
 <style>
 r { color: Red }
 y { color: #E4D00A }
 </style>
 
+<img src='/images/liso_teaser.jpg'>
+Predicted boxes (single shot) by our method in <y>yellow</y>.
 
-Ground truth boxes in <r>red</r>, predicted boxes (single shot) in <y>yellow</y>:
+## Abstract
+3D object detection is one of the most important components in any Self-Driving stack, but current state-of-the-art (SOTA) lidar object detectors require costly & slow manual annotation of 3D bounding boxes to perform well.
+We introduce a novel self-supervised method to train SOTA lidar object detection networks which works on unlabeled sequences of lidar point clouds only, which we call trajectory-regularized self-training.
+It utilizes a SOTA self-supervised lidar scene flow network under the hood to generate, track, and iteratively refine pseudo ground truth.
 
-<img src='/images/liso_rear.jpg'>
+We demonstrate that our method works with two different networks on four different datasets, using **the same hyperparameters**.
 
 ## Method:
 
