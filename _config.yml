@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Stefan Baur"
 title_separator          : "-"
 name                     : &name "Stefan Baur"
-description              : &description "PhD Candidate at MPG Tuebingen"
+description              : &description "PhD Candidate at University of Tübingen"
 url                      : https://baurst.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "baurst/baurst.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stefan Baur"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, working at Mercedes-Benz AG, supervised by Andreas Geiger from MPG Tuebingen"
+  bio              : "PhD Candidate, working at Mercedes-Benz AG, supervised by Andreas Geiger from University of Tübingen"
   location         : "Stuttgart, Germany"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"

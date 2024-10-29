@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 Hi there! 👋 I'm Stefan, a PhD student working on autonomous driving at Mercedes-Benz.
-I'm also part of the [Autonomous Vision Group at the Max Planck Institute for Intelligent Systems](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/team/), supervised by Andreas Geiger.
+I'm also part of the [Autonomous Vision Group at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/team/), supervised by Andreas Geiger.
 
 My research is at the intersection of machine learning and 3D Vision, especially motion-based self-supervised learning for 3D LiDAR sensors.
 
