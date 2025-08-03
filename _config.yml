@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Stefan Baur"
   avatar           : "profile.png"
-  bio              : "PhD Candidate, working at Mercedes-Benz AG, supervised by Andreas Geiger from University of Tübingen"
+  bio              : "ML Engineer at Mercedes-Benz"
   location         : "Stuttgart, Germany"
   employer         :
   # pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -113,7 +113,7 @@ author:
   vine             :
   weibo            :
   xing             :
-  youtube          :
+  youtube          : "@baurste"
   wikipedia        :
 
 
