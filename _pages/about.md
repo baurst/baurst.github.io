@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi there! 👋 I'm Stefan, an ML Engineer working on autonomous driving at Mercedes-Benz.
+Hi there! 👋 I'm Stefan, a ML Engineer working on autonomous driving at Applied Intuition.
+Prior to joining Applied, I worked at Mercedes-Benz on perception for driver assistance systems.
 
-I have obtained my PhD as part of the [Autonomous Vision Group at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/team/), supervised by [Andreas Geiger](https://cvlibs.net/). You can find my thesis [here](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/166495).
-
-My research is at the intersection of machine learning and 3D Vision, especially motion-based self-supervised learning for 3D LiDAR sensors.
+I have obtained my PhD as part of the [Autonomous Vision Group at the University of Tübingen](https://uni-tuebingen.de/en/fakultaeten/mathematisch-naturwissenschaftliche-fakultaet/fachbereiche/informatik/lehrstuehle/autonomous-vision/team/), supervised by [Andreas Geiger](https://cvlibs.net/).
+The research during my PhD focused on motion-based self-supervised learning for 3D object detection, using LiDAR. You can find my thesis [here](https://publikationen.uni-tuebingen.de/xmlui/handle/10900/166495).
 
 I strongly believe in the [Bitter Lesson](http://www.incompleteideas.net/IncIdeas/BitterLesson.html): In the long run, methods that can make better use of data and compute tend to outperform all the clever tricks we come up with as computer vision researchers.
 That said, I think motion-based self-supervised learning in 3D is a powerful shortcut for models to obtain a deeper world understanding: It scales with data and compute, while taking advantage of how things actually move and exist in 3D space without requiring any human annotations.
